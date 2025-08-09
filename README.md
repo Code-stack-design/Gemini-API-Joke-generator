@@ -1,13 +1,4 @@
-# Silly Joke Generator using Gemini API
+Unleash Your Inner Comedian with a Custom Joke Generator in Google AI Studio
+Harnessing the power of Google AI Studio, you can create a personalized joke generator capable of crafting an endless supply of silly humor. This tool demonstrates the creative potential of AI in generating lighthearted and amusing content.
+This creative application of Google AI Studio showcases how accessible and versatile the platform is for both developers and enthusiasts.By simply providing a clear and concise prompt, users can unlock a wide range of creative possibilities, from poetry and code snippets to a custom-built silly joke generator.The platform's intuitive interface makes it an ideal environment for experimenting with and prototyping generative AI applications.
 
-## What It Does
-This Python script uses the Gemini Pro model (Google AI Studio) to generate a silly joke for kids.
-
-## How to Run
-
-1. Install the library:
-2. Replace `YOUR_API_KEY_HERE` with your actual Gemini API key.
-3. Run the script:
-## Output Screenshot
-
-[OUTPUT](https://drive.google.com/file/d/1FhdI9ScM8UR0iJCB8_YbBFfpOjRjB-oK/view?usp=sharing)
